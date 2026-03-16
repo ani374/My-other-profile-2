@@ -8,9 +8,9 @@ body {
 
     padding: 0; 
 
-    background-color: #f9f9f9; 
+    background-color: #f3e8ff; 
 
-    color: #333;
+    color: #f3e8ff;
     transition: background-color 0.3s, color 0.3s;
 
 } 
@@ -21,7 +21,7 @@ body {
 
 nav { 
 
-    background-color: #333; 
+    background-color: #2c3e50; 
 
     padding: 15px; 
 
@@ -55,9 +55,9 @@ nav a:hover {
 
 header { 
 
-    background-color: purple; 
+    background-color: #f3e8ff; 
 
-    color: purple; 
+    color: #f3e8ff; 
 
     padding: 30px; 
 
