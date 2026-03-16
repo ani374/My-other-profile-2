@@ -32,7 +32,7 @@ nav {
 
 nav a { 
 
-    color: white; 
+    color: purple; 
 
     text-decoration: none; 
 
@@ -54,9 +54,9 @@ nav a:hover {
 
 header { 
 
-    background-color: #4CAF50; 
+    background-color: purple; 
 
-    color: white; 
+    color: purple; 
 
     padding: 30px; 
 
@@ -86,7 +86,7 @@ footer {
 
     background-color: #333; 
 
-    color: white; 
+    color: purple; 
 
     text-align: center; 
 
